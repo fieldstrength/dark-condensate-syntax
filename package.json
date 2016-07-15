@@ -1,0 +1,32 @@
+{
+  "name": "dark-condensate-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Dark and cold syntax theme",
+  "keywords": [
+    "condensate",
+    "dark",
+    "syntax",
+    "theme",
+    "purple",
+    "blue",
+    "mint",
+    "orange",
+    "balanced",
+    "cold",
+    "desaturated"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackBrane/dark-condensate-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/BlackBrane/dark-condensate-syntax/issues"
+  },
+  "homepage": "https://github.com/BlackBrane/dark-condensate-syntax"
+}

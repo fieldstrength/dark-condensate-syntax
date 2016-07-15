@@ -1,0 +1,27 @@
+.source.gfm .markup {
+  -webkit-font-smoothing: auto;
+  &.heading {
+    color: @purple;
+  }
+  &.link {
+    color: @orange;
+  }
+}
+.markup.raw.gfm {
+    color: @very-light-blue;
+}
+.comment.quote.gfm {
+    color: @yellow;
+}
+
+.entity.gfm {
+  color: @mint;
+}
+
+.punctuation {
+  &.definition {
+    &.gfm {
+      color: darken(@mint, 15%);
+    }
+  }
+}
