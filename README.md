@@ -1,7 +1,8 @@
 # Dark Condensate Syntax
 
-[![apm](https://img.shields.io/apm/v/dark-condensate-syntax.svg)](https://atom.io/themes/dark-condensate-syntax)
-[![apm](https://img.shields.io/apm/dm/dark-condensate-syntax.svg)](https://atom.io/themes/dark-condensate-syntax)
+[![apm-version](https://img.shields.io/apm/v/dark-condensate-syntax.svg)](https://atom.io/themes/dark-condensate-syntax)
+[![apm-downloads](https://img.shields.io/apm/dm/dark-condensate-syntax.svg)](https://atom.io/themes/dark-condensate-syntax)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 A dark syntax theme for the [Atom editor](https://atom.io).
 
