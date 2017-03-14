@@ -1,2 +1,7 @@
 
-## 1.0.0 - Initial Release
+### 1.1.2
+ * Fix README and preview image
+
+
+## 1.1.0
+ * Initial Release
